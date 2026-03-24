@@ -1,0 +1,8 @@
+﻿  Number.cpp
+C:\trestii\fac\an 1 sem 2\oop\lab 5\lab 5 pb 1\lab 5 pb 1\Number.cpp(10,17): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\trestii\fac\an 1 sem 2\oop\lab 5\lab 5 pb 1\lab 5 pb 1\Number.cpp(147,17): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\trestii\fac\an 1 sem 2\oop\lab 5\lab 5 pb 1\lab 5 pb 1\Number.cpp(158,17): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\trestii\fac\an 1 sem 2\oop\lab 5\lab 5 pb 1\lab 5 pb 1\Number.cpp(189,18): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  main.cpp
+  Generating Code...
+  lab 5 pb 1.vcxproj -> C:\trestii\fac\an 1 sem 2\oop\lab 5\lab 5 pb 1\x64\Debug\lab 5 pb 1.exe
